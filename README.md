@@ -1,4 +1,3 @@
-```markdown
 # Plant Disease Detection using PyTorch
 
 This repository contains a Jupyter Notebook for training an image classification model to detect plant diseases using the PlantVillage dataset. The implementation utilizes transfer learning with a pre-trained ResNet-18 architecture via PyTorch.
